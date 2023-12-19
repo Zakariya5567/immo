@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Immo Experte 24</string>
+    <string name="facebook_app_id">1328460697723952</string>
+    <string name="fb_login_protocol_scheme">fb1328460697723952</string>
+    <string name="facebook_client_token">c4dc2323176980fcbca26f106c326a4e</string>
+</resources>

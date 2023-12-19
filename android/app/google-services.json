@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "615298447819",
+    "project_id": "imo-experte-24-6ef15",
+    "storage_bucket": "imo-experte-24-6ef15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615298447819:android:f21e261d273fc9f237de4e",
+        "android_client_info": {
+          "package_name": "com.immoexperte24.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615298447819-0o9n64ukks6f992js4sff7a7prefnnc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.immoexperte24.app",
+            "certificate_hash": "3cac830880e10c54785d9abb22a2eeda1855e4af"
+          }
+        },
+        {
+          "client_id": "615298447819-d8kr3aadfhne3vpd2b56eu4tvk2tg0vm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.immoexperte24.app",
+            "certificate_hash": "5bda276dcf8d0e30057da330efed8be062184c2b"
+          }
+        },
+        {
+          "client_id": "615298447819-grrae074in9drrjit5tt2cdk8ut2gv8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.immoexperte24.app",
+            "certificate_hash": "82302db3676f61687fcb14544d22daf851f2fec5"
+          }
+        },
+        {
+          "client_id": "615298447819-lsouc57uhmfif92ds5m7uejctck00l3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.immoexperte24.app",
+            "certificate_hash": "680d35ef7a505985f606309bf75320afc1011c95"
+          }
+        },
+        {
+          "client_id": "615298447819-r0d7nup7gmfsf844vdgf7banmercs3dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcPjr983zlFkglAlfApgs7Z0kAq656tiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615298447819-i7e9h3qas4t4a361l4467cdrqd6ohiah.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615298447819-46du87du0efk5t84sth53tlam7v6p8ri.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.immoexperte24.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
